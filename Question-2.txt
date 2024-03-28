@@ -1,0 +1,6 @@
+.2) How is Web3 different from Web2?
+Ans:- 
+    Web2 where everything is centerlized and controlled 
+wheras Web3 is a peer to peer Network of nodes and gives control back to its users .
+   in Web3 a user has a full of control over his/her data and is censor free .
+Web3 also has an added advantage over web2 in that payments are built-in/native and   directly transfer value over a network using its   tokens .

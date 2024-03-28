@@ -1,0 +1,8 @@
+ 3. 
+Ans:- first we need to check  for node version and npm version , if thery are then w need to  insatll  our JSON file .
+
+
+
+Const address = “ “ ; // your account address .
+Web3.eth.getBalance(address ,(err,wei)=>{balance = web3.utils.fromWei(wei,’ether’)});
+Console.log(balance);
